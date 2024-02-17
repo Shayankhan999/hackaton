@@ -1,0 +1,51 @@
+.navbar-text{
+    margin-left: 30px;
+}
+.d-flex{
+    margin-right: 20px;
+}
+@media only screen and ( max-width:748px){
+    .navbar-brand{
+        display: none;
+    }   
+}
+.b{
+    width: 100%;
+    background-color: rgb(204, 207, 0);
+    color: whitesmoke;
+        
+}
+.c{
+    width: 80%;
+    background-color: white;
+    border-radius: 5px;
+}
+.c>.btn{
+   margin: 20px;
+}
+.d{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.d>.input-group-text{
+    background-color: rgb(185, 6, 6);
+    color: beige;
+}
+.e{
+    width: 100%;
+}
+.e>img{
+    width: 80%;
+}
+.b{
+    padding-top: 20px;
+}
+.g{
+    background-color: rgb(231, 204, 209);
+    color: orangered;
+    border-color: aliceblue;
+    border-radius: 5px;
+}
+.x{
+    margin-top: 20px;
+}
